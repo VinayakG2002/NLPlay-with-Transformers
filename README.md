@@ -30,3 +30,16 @@ The first phase of the project was to use Natural Language Processing for Sentim
 8. Used ReLu as activation function and cross entropy for loss function.
 9. Used Stochastic Gradient Descent with different batch sizes and learning rates.
 10. Maximum accuracy achieved: 87.87%
+
+-----
+# Week 3
+-----
+1. Learned the working of Recurrent NN.
+2. Understood the mathematics used in RNN.
+3. Modified the FFNN model using RNN.
+4. Achieved accuracy of : 78.23% 
+5. Understood the working and mathematics of LSTM.
+6. Modified and made a LSTM based model.
+7. Achieved an accuracy of : 93.5%
+8. Understood the working of GRU.
+9. Implemented the GRU model. Acuuracy achieved: 93.91% 
