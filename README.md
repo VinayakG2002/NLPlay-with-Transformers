@@ -40,6 +40,6 @@ The first phase of the project was to use Natural Language Processing for Sentim
 4. Achieved accuracy of : 78.23% 
 5. Understood the working and mathematics of LSTM.
 6. Modified and made a LSTM based model.
-7. Achieved an accuracy of : 93.3%
+7. Achieved an accuracy of : 93.5%
 8. Understood the working of GRU.
 9. Implemented the GRU model. Acuuracy achieved: 93.91% 
