@@ -43,3 +43,35 @@ The first phase of the project was to use Natural Language Processing for Sentim
 7. Achieved an accuracy of : 93.5%
 8. Understood the working of GRU.
 9. Implemented the GRU model. Acuuracy achieved: 93.91% 
+
+-----
+# Week 4
+-----
+This was a buffer time. Tried to cover the work left in Week 2 and 3.
+
+----
+# Week 5
+----
+1. Understood what is Attention and how it works in Deep Learning.
+2. Understood the basics of Transformers (BERT and others) and their working.
+3. Started making the Sentiment Classifier using BERT.
+
+-----
+# Week 6
+----
+1. Completed the Sentiment Classifier using BERT (dataset of 50000 reviews).
+2. Achieved an accuracy of 93.05%
+3. To compare the accuracies and speed of BERT, RoBERTa and DistilBERT I used only the first 5000 reviews of the dataset.
+4. Achieved accuracies- BERT- 90.27%
+                        RoBERTa- 91.87%
+                        DistilBERT- 90.73%
+5. One observation- The DistilBERT trainer(9 min 33 sec) program took almost half the time as of BERT(17 min 53 sec) and RoBERTa(18 min 47 sec). The reason is because DistilBERT retains only half of the layers from BERT. It uses half parameters but has approximately the same accuracy.
+
+-----
+# Week 7
+-----
+This was a buffer Week. Completed pending tasks.
+
+----
+# Week 8
+----
