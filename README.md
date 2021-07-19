@@ -75,3 +75,5 @@ This was a buffer Week. Completed pending tasks.
 ----
 # Week 8
 ----
+1. Understood the working of GPT-2 and T5 transformers in the domain of text generation.
+2. Created a custom dataset(science.csv)
